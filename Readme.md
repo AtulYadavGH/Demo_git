@@ -1,1 +1,1 @@
-# This just for learning the Git and GitHub
+# This is just for learning the Git and GitHub
